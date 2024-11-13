@@ -1,13 +1,20 @@
 import java.util.Scanner;
+import java.util.logging.Logger;
+import java.util.logging.Level;
 
 class Dec2Hex
 {
 public static int Arg1;
+private static final Logger logger = Logger.getLogger(Dec2Hex.class.getName());
+
+
     public static void main(String args[])    {
 
 	     // Return an error if no argument is passed
         if (args.length == 0) {
-            System.out.println("Error: No argument provided.  Provide a Decimal Number from 0 t0 255 ");
+	              logger.log(Level.SEVERE, "Error: No input argument provided. Please provide a decimal number to convert.");
+
+           // System.out.println("Error: No argument provided.  Provide a Decimal Number from 0 t0 255 ");
             return;
         }
 
