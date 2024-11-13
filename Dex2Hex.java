@@ -16,7 +16,7 @@ class Dec2Hex {
             // Try to parse the argument to an integer
             arg1 = Integer.parseInt(args[0]);
         } catch (NumberFormatException e) {
-            logger.log(Level.SEVERE, "Error: The input provided is not a valid integer.", e);
+            logger.log(Level.SEVERE, "Error: The input provided is not a valid integer.");
             return;
         }
 
