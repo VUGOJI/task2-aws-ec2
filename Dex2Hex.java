@@ -20,7 +20,9 @@ class Dec2Hex {
             return;
         }
 
-        char ch[] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F'};
+        // char ch[] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F'};
+        char[] ch = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F'};
+
         int rem;
         int  num = arg1;
         StringBuilder hexadecimal = new StringBuilder();
@@ -34,7 +36,7 @@ class Dec2Hex {
             num = num / 16;
         }
 
-        logger.log(Level.INFO, "Hexadecimal representation is: {0}", hexadecimal.toString());
+        logger.log(Level.INFO, "Hexadecimal representation  is: {0}", hexadecimal);
     }
 }
 
