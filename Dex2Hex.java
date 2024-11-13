@@ -4,6 +4,13 @@ class Dec2Hex
 {
 public static int Arg1;
     public static void main(String args[])    {
+
+	     // Return an error if no argument is passed
+        if (args.length == 0) {
+            System.out.println("Error: No argument provided.  Provide a Decimal Number from 0 t0 255 ");
+            return;
+        }
+
         Arg1 = Integer.parseInt(args[0]);
         char ch[]={'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'};
         int rem, num;
