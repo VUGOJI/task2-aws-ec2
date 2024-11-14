@@ -34,7 +34,7 @@ class Dec2Hex {
             hexadecimal.insert(0, ch[rem]);  // Insert character at the beginning
             num = num / 16;
         }
-
+	//comment line
         logger.log(Level.INFO, "Hexadecimal representation  is: {0}", hexadecimal);
     }
 }
