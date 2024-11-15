@@ -1,0 +1,113 @@
+commit 9f62e751ef73881a444c0af3699fa29a3947dbfc
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Fri Nov 15 15:19:16 2024 +0000
+
+    test
+
+commit b5a7f6ad1184dd7b86183345b5198e9194664862
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Fri Nov 15 14:13:42 2024 +0000
+
+    removed text file
+
+commit 6d1d2469a6819dba4f1e3fbf0c360f546a054d26
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Fri Nov 15 13:33:32 2024 +0000
+
+    text
+
+commit 808e06a345572069a5c92596e7f24eedac8653bc
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Fri Nov 15 12:58:42 2024 +0000
+
+    added test
+
+commit e19fda9b167d0d0afc0b73c2bcb216feb4cb2c58
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Thu Nov 14 09:52:24 2024 +0000
+
+    update
+
+commit 1481064b3e28349074234593025feef3cd73898c
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 17:44:28 2024 +0000
+
+    removed comment
+
+commit 6ac5f95f80d5b22e2ea16da67651ef632bacd507
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 17:42:19 2024 +0000
+
+    removed unneccessary toString()
+
+commit a70f1819ff105d7cc6597d55948bd44ac4412e54
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 17:33:51 2024 +0000
+
+    removed unncessary error log
+
+commit dc482ecae8f630eea800b21d35c181617ff52b85
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 17:24:50 2024 +0000
+
+    seperated vaiable declaration
+
+commit 534a1cc95c79a63f0730034d7eecfea0dd7d4542
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 17:20:04 2024 +0000
+
+    changed Arg1 from public to local variable
+
+commit 169c81f5b0c6faa7764a5ed3fa4971047f0eab8c
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 17:13:17 2024 +0000
+
+    added string builder to replace traditional string
+
+commit b24a5a64f4eabd21cf5da3f889ec33ef2d703d7f
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 17:04:15 2024 +0000
+
+    fixed errors
+
+commit 91f6d94535f15118148919ef80f73fca962ea07d
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 16:50:08 2024 +0000
+
+    udpate
+
+commit 8a526d7946525b30660042a10c5dca197d02fa39
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 16:32:51 2024 +0000
+
+    implementing fix from sonarqube- replacing system.out with logger
+
+commit 51d6dc00c73cfd46c6eb788012c72995e643c6da
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 16:23:27 2024 +0000
+
+    added error handler when no argument is passed
+
+commit ad7a77bf0a52d6cb59fbe755c96c16ac8bf49f26
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 15:28:31 2024 +0000
+
+    added sonar properties
+
+commit b78ba42167b51fb674fc221a63612a85158d9a16
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 13:47:47 2024 +0000
+
+    test
+
+commit 1e95f211b639f45e99eb194fd2d4b057b8d2c924
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 11:32:18 2024 +0000
+
+    testing jenkins auto build
+
+commit 2078bba4a6ec89dae8c4903730e560a116dd8d85
+Author: Vincent Ugoji <VUgoji300@caledonian.ac.uk>
+Date:   Wed Nov 13 09:28:49 2024 +0000
+
+    initial commit
